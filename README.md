@@ -28,7 +28,7 @@ pip install -r requirements.txt
 
 ###  Download and unzip contents from GitHub repo
 
-Download and unzip contents from https://github.com/dataprofessor/bioactivity-prediction-app/archive/main.zip
+Download and unzip contents from here git hub respo files attached downlod the zip file to local computer.
 
 ### Generating the PKL file
 
